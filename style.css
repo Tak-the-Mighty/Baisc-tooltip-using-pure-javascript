@@ -1,0 +1,20 @@
+p {
+  display: block;
+}
+
+.div-tooltip {
+  opacity: 0;
+  width: 230px;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  color: black;
+  padding: 10px 20px;
+  margin: 20px;
+  z-index: 99999;
+  border-radius: 3px;
+  border: #eaeaea;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16);
+}
